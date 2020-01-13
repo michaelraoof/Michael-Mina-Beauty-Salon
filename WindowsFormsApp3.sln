@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "WindowsFormsApp3\WindowsFormsApp3.csproj", "{1FE3BF6C-63C4-4E89-B714-65ABF3731AEA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Michael @ MIna Beauty Salon setup", "Michael @ MIna Beauty Salon setup\Michael @ MIna Beauty Salon setup.vdproj", "{46700951-E4AE-4D0D-842B-BFF8D77A4929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE3BF6C-63C4-4E89-B714-65ABF3731AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE3BF6C-63C4-4E89-B714-65ABF3731AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE3BF6C-63C4-4E89-B714-65ABF3731AEA}.Debug|x86.ActiveCfg = Release|x86
+		{1FE3BF6C-63C4-4E89-B714-65ABF3731AEA}.Debug|x86.Build.0 = Release|x86
+		{1FE3BF6C-63C4-4E89-B714-65ABF3731AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE3BF6C-63C4-4E89-B714-65ABF3731AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE3BF6C-63C4-4E89-B714-65ABF3731AEA}.Release|x86.ActiveCfg = Release|x86
+		{1FE3BF6C-63C4-4E89-B714-65ABF3731AEA}.Release|x86.Build.0 = Release|x86
+		{46700951-E4AE-4D0D-842B-BFF8D77A4929}.Debug|Any CPU.ActiveCfg = Debug
+		{46700951-E4AE-4D0D-842B-BFF8D77A4929}.Debug|x86.ActiveCfg = Debug
+		{46700951-E4AE-4D0D-842B-BFF8D77A4929}.Release|Any CPU.ActiveCfg = Release
+		{46700951-E4AE-4D0D-842B-BFF8D77A4929}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D2E9806-7885-4655-A3C4-8F27F5B5FE0E}
+	EndGlobalSection
+EndGlobal

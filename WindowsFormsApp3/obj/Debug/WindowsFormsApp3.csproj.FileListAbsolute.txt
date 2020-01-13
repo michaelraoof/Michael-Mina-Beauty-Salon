@@ -1,0 +1,29 @@
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Ionic.Zip.dll
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Data.SQLite.dll
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Data.SQLite.xml
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Michael @ Mina Beauty Salon.exe.config
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Michael @ Mina Beauty Salon.exe.manifest
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Michael @ Mina Beauty Salon.application
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Michael @ Mina Beauty Salon.exe
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Michael @ Mina Beauty Salon.pdb
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Michael @ Mina Beauty Salon.exe.manifest
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Michael @ Mina Beauty Salon.application
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Michael @ Mina Beauty Salon.exe
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Michael @ Mina Beauty Salon.pdb
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Ionic.Zip.dll
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete

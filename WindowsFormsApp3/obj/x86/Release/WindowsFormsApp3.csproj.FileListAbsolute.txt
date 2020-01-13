@@ -1,0 +1,19 @@
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\WindowsFormsApp3.Form1.resources
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\WindowsFormsApp3.Properties.Resources.resources
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Release\Michael @ Mina Beauty Salon.exe.config
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Release\Michael @ Mina Beauty Salon.exe.manifest
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Release\Michael @ Mina Beauty Salon.application
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Release\Michael @ Mina Beauty Salon.exe
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Release\Michael @ Mina Beauty Salon.pdb
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Release\Ionic.Zip.dll
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Release\System.Data.SQLite.dll
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Release\System.Data.SQLite.xml
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\Michael @ Mina Beauty Salon.exe.manifest
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\Michael @ Mina Beauty Salon.application
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\WindowsFormsApp3.csproj.CopyComplete
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\Michael @ Mina Beauty Salon.exe
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Release\Michael @ Mina Beauty Salon.pdb

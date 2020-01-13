@@ -1,0 +1,5 @@
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.Form1.resources
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\michael\downloads\center\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
